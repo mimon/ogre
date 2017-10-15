@@ -39,6 +39,7 @@ If you want to dive deeper into the OGRE ecosystem here are your options.
 - [ROS 3D Robot Visualizer](http://wiki.ros.org/rviz)
 
 **Closed Source**
+- [Hob](http://store.steampowered.com/app/404680/Hob/)
 - [Torchlight II](http://store.steampowered.com/app/200710/Torchlight_II/)
 - [Battlezone 98 Redux](http://store.steampowered.com/app/301650/Battlezone_98_Redux/)
 - [Live Home 3D - Home Design Software](https://www.livehome3d.com/)

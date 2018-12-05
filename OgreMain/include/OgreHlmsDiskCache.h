@@ -30,6 +30,7 @@ THE SOFTWARE.
 
 #include "OgreHlms.h"
 #include "OgreHeaderPrefix.h"
+#include "OgreHlmsDatablock.h"
 
 namespace Ogre
 {

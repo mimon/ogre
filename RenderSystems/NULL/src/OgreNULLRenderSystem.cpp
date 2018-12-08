@@ -42,6 +42,9 @@ namespace Ogre
         mHardwareBufferManager( 0 )
     {
     }
+    NULLRenderSystem::~NULLRenderSystem() {
+     shutdown();
+    }
     //-------------------------------------------------------------------------
     void NULLRenderSystem::shutdown(void)
     {
